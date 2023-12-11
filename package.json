@@ -1,0 +1,29 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Version 1 by AJ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjinkyaAshok/namastereact.git"
+  },
+  "keywords": [
+    "react",
+    "ajinkyaashok"
+  ],
+  "author": "ajinkyaashok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjinkyaAshok/namastereact/issues"
+  },
+  "homepage": "https://github.com/AjinkyaAshok/namastereact#readme",
+  "dependencies": {
+    "node": "^21.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
